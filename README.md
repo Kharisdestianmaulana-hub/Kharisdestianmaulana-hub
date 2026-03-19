@@ -90,7 +90,7 @@ $ apt list --learning
   lalu ganti YOUR_WAKATIME_USERNAME di bawah dengan username Wakatime kamu.
 -->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiRay&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE&layout=compact)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiRay&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE&layout=compact)](https://wakatime.com/@RiRay)
 
 </div>
 
