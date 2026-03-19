@@ -37,6 +37,16 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 
 ---
 
+## 📌 Featured projects
+
+<div align="center">
+
+[![Shift OS](https://github-readme-stats.vercel.app/api/pin/?username=riray-hub&repo=Shift-OS&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE)](https://github.com/riray-hub/Shift-OS)
+
+</div>
+
+---
+
 ## 🌱 Currently learning
 
 ```bash
@@ -105,6 +115,10 @@ $ apt list --learning
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=riray-hub&theme=radical&hide_border=true&background=0f0f1a&ring=7F77DD&fire=D4537E&currStreakLabel=5DCAA5" alt="GitHub Streak"/>
 
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riray-hub&theme=radical&bg_color=0f0f1a&color=7F77DD&line=D4537E&point=5DCAA5&hide_border=true)](https://github.com/riray-hub)
+
 </div>
 
 ---
@@ -140,6 +154,27 @@ $ apt list --learning
 
 ---
 
+## 🖥️ My setup
+
+```yaml
+OS: macOS Monterey + Ubuntu Budgie
+Editor: Visual Studio Code
+Terminal: bash
+Shell: bash
+Distro I built: Shift OS (Ubuntu 24.04 LTS base)
+Currently on: Godot Engine 4 + Cubic + Adobe Illustrator
+```
+
+---
+
+## 💬 Shift OS tagline
+
+> _"Elegance Meets Pure Performance."_
+> — A Linux distro built by one developer, for creators & devs everywhere.
+> 🌐 [shift-os.netlify.app](https://shift-os.netlify.app)
+
+---
+
 ## 📫 Let's connect
 
 I'm always down to talk game dev, Linux ricing, open-source, or creative writing!
@@ -159,8 +194,8 @@ I'm always down to talk game dev, Linux ricing, open-source, or creative writing
 
 <div align="left">
 
-[![Saweria](https://img.shields.io/badge/Saweria-Support%20me-F4A724?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/RiRay)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/riray)
+[![Saweria](https://img.shields.io/badge/Saweria-Support%20me-F4A724?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/YOUR_SAWERIA_USERNAME)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_USERNAME)
 
 </div>
 
