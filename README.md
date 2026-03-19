@@ -3,7 +3,7 @@
 <!-- Banner — save the SVG above as banner.svg and upload to your repo, or use an image host -->
 <!-- Alternatively replace with your own custom image: -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,D4537E,5DCAA5&height=200&section=header&text=Hi,%20I'm%20Kharis!&fontSize=40&fontColor=EEEDFE&fontAlignY=38&desc=Game%20Dev%20%C2%B7%20Linux%20Distro%20Builder%20%C2%B7%20Creative%20Writer&descAlignY=58&descColor=9FE1CB&animation=twinkling)
+![Banner](./banner.svg)
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=riray-hub.riray-hub&color=7F77DD&labelColor=0f0f1a)](https://github.com/riray-hub)
 [![GitHub followers](https://img.shields.io/github/followers/riray-hub?label=followers&style=flat&color=D4537E&labelColor=0f0f1a&logo=github)](https://github.com/riray-hub?tab=followers)
