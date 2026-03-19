@@ -31,12 +31,17 @@
 
 ### 🐧 System & OS Customization
 
-- **[Shift OS](https://github.com/riray-hub/Shift-OS)** | 🌐 **[Website](https://shift-os.netlify.app):** Actively developing and customizing my own Linux distribution, focusing on deep UI/UX customization and tailored system configurations.
+- **[Shift OS](https://github.com/riray-hub/Shift-OS)** | 🌐 **[Website](https://shift-os.netlify.app)**
+<p align="left">
+  <a href="https://github.com/riray-hub/Shift-OS">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=riray-hub&repo=Shift-OS&theme=radium" alt="Shift OS Repo Card" />
+  </a>
+</p>
 
 ### 🤖 Academic & Research Projects
 
-- **Cost-Effective IoT:** Researching and designing Internet of Things projects with a strict budget constraint (under Rp 50.000).
-- **AI History Narrative:** Co-created a unique university presentation exploring the history of Artificial Intelligence, formatted as an engaging science fiction story.
+- **Cost-Effective IoT:** Researching and designing Internet of Things projects with a budget constraint.
+- **AI History Narrative:** Co-created a unique university presentation exploring the history of AI as a science fiction story.
 
 ---
 
@@ -96,9 +101,19 @@
 
 ## 📫 Let's Connect!
 
-I'm always open to discussing game development, Linux ricing, open-source projects, or even a good story on Mangatoon!
+I'm always open to discussing game development, Linux ricing, or open-source projects!
 
-- **Email:** [kharisdestian862@gmail.com](mailto:kharisdestian862@gmail.com)
+<p align="left">
+  <a href="mailto:kharisdestian862@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/kharis_destian">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@riray0412">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</p>
 
 <p align="center">
   <i>"Building logic through code, crafting worlds through stories."</i>
