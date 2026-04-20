@@ -2,9 +2,9 @@
 
 ![Banner](./banner.svg)
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=riray-hub.riray-hub&color=7F77DD&labelColor=0f0f1a)](https://github.com/riray-hub)
-[![GitHub followers](https://img.shields.io/github/followers/riray-hub?label=followers&style=flat&color=D4537E&labelColor=0f0f1a&logo=github)](https://github.com/riray-hub?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/riray-hub?label=total%20stars&style=flat&color=EF9F27&labelColor=0f0f1a&logo=github)](https://github.com/riray-hub)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Kharisdestianmaulana-hub.Kharisdestianmaulana-hub&color=7F77DD&labelColor=0f0f1a)](https://github.com/Kharisdestianmaulana-hub)
+[![GitHub followers](https://img.shields.io/github/followers/Kharisdestianmaulana-hub?label=followers&style=flat&color=D4537E&labelColor=0f0f1a&logo=github)](https://github.com/Kharisdestianmaulana-hub?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Kharisdestianmaulana-hub?label=total%20stars&style=flat&color=EF9F27&labelColor=0f0f1a&logo=github)](https://github.com/Kharisdestianmaulana-hub)
 
 </div>
 
@@ -31,7 +31,7 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 
 | Project                                                                                               | Type          | Status       | Description                                              |
 | :---------------------------------------------------------------------------------------------------- | :------------ | :----------- | :------------------------------------------------------- |
-| 🐧 **[Shift OS](https://github.com/riray-hub/Shift-OS)** · [🌐 website](https://shiftos.vercel.app/) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
+| 🐧 **[Shift OS](https://github.com/Kharisdestianmaulana-hub/Shift-OS)** · [🌐 website](https://shiftos.vercel.app/) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
 | 🎮 **Pocket Officer**                                                                                 | 3D Platformer | 🟡 In Dev    | Godot Engine · atmospheric 3D platformer                 |
 | 🔌 **Godot Plugin**                                                                                   | Tool          | ✅ Published | Auto-removes comments from GDScript code                 |
 
@@ -41,7 +41,7 @@ I bridge the gap between **technical logic** and **creative storytelling** — w
 
 <div align="center">
 
-[![Shift OS](https://github-readme-stats.vercel.app/api/pin/?username=riray-hub&repo=Shift-OS&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE)](https://github.com/riray-hub/Shift-OS)
+[![Shift OS](https://github-readme-stats.vercel.app/api/pin/?username=Kharisdestianmaulana-hub&repo=Shift-OS&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE)](https://github.com/Kharisdestianmaulana-hub/Shift-OS)
 
 </div>
 
@@ -110,14 +110,14 @@ $ apt list --learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=riray-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riray-hub&layout=compact&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kharisdestianmaulana-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kharisdestianmaulana-hub&layout=compact&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riray-hub&theme=radical&hide_border=true&background=0f0f1a&ring=7F77DD&fire=D4537E&currStreakLabel=5DCAA5" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharisdestianmaulana-hub&theme=radical&hide_border=true&background=0f0f1a&ring=7F77DD&fire=D4537E&currStreakLabel=5DCAA5" alt="GitHub Streak"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riray-hub&theme=radical&bg_color=0f0f1a&color=7F77DD&line=D4537E&point=5DCAA5&hide_border=true)](https://github.com/riray-hub)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kharisdestianmaulana-hub&theme=radical&bg_color=0f0f1a&color=7F77DD&line=D4537E&point=5DCAA5&hide_border=true)](https://github.com/Kharisdestianmaulana-hub)
 
 </div>
 
@@ -127,7 +127,7 @@ $ apt list --learning
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riray-hub&theme=radical&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kharisdestianmaulana-hub&theme=radical&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -137,8 +137,8 @@ $ apt list --learning
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/riray-hub/riray-hub/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/riray-hub/riray-hub/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Kharisdestianmaulana-hub/Kharisdestianmaulana-hub/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/Kharisdestianmaulana-hub/Kharisdestianmaulana-hub/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
@@ -171,7 +171,7 @@ Currently on: Godot Engine 4 + Cubic + Adobe Illustrator
 
 > _"Elegance Meets Pure Performance."_
 > — A Linux distro built by one developer, for creators & devs everywhere.
-> 🌐 [shift-os.netlify.app](https://shift-os.netlify.app)
+> 🌐 [shiftos.vercel.app](https://shiftos.vercel.app)
 
 ---
 
@@ -225,7 +225,7 @@ I'm always down to talk game dev, Linux ricing, open-source, or creative writing
 [![Email](https://img.shields.io/badge/maulanakharis123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulanakharis123@gmail.com)
 [![Instagram](https://img.shields.io/badge/@kharis_destian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kharis_destian)
 [![TikTok](https://img.shields.io/badge/@riray0412-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@riray0412)
-[![Shift OS](https://img.shields.io/badge/Shift%20OS-Website-5DCAA5?style=for-the-badge&logo=linux&logoColor=white)](https://shift-os.netlify.app)
+[![Shift OS](https://img.shields.io/badge/Shift%20OS-Website-5DCAA5?style=for-the-badge&logo=linux&logoColor=white)](https://shiftos.vercel.app)
 
 </div>
 
