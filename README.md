@@ -10,112 +10,58 @@
 
 ---
 
-## 🕹️ About me
+## About
 
-```bash
-$ whoami
-> Kharis Destian — IT Student, Indie Dev & Linux Enthusiast
-> Based in: Cirebon, West Java, Indonesia 📍
-> Currently studying at: Universitas Catur Insan Cendikia (UCIC)
-> Pronouns: He/Him
-> Fun fact: I've distro-hopped enough times to lose count, but somehow always end up building my own.
+```
+Kharis Destian — IT Student · Indie Dev · Linux Enthusiast
+Location  : Cirebon, West Java, Indonesia
+University: Universitas Catur Insan Cendikia (UCIC)
 ```
 
-I bridge the gap between **technical logic** and **creative storytelling** — whether that's through building immersive games, shipping a custom Linux distro, or writing long-form fiction. If it can be customized, I'll customize it.
+I bridge technical logic and creative work — building games, shipping a custom Linux distro, and writing long-form fiction. If it can be customized, it will be.
 
 ---
 
-## 🔨 What I'm building right now
+## Active Projects
 
-> **Status:** `[████████░░] actively shipping`
-
-| Project                                                                                               | Type          | Status       | Description                                              |
-| :---------------------------------------------------------------------------------------------------- | :------------ | :----------- | :------------------------------------------------------- |
-| 🐧 **[Shift OS](https://github.com/Kharisdestianmaulana-hub/Shift-OS)** · [🌐 website](https://shiftos.vercel.app/) | Linux Distro  | 🟢 Active    | Ubuntu 24.04 LTS base · Pure GNOME · Calamares installer |
-| 🎮 **Pocket Officer**                                                                                 | 3D Platformer | 🟡 In Dev    | Godot Engine · atmospheric 3D platformer                 |
-| 🔌 **Godot Plugin**                                                                                   | Tool          | ✅ Published | Auto-removes comments from GDScript code                 |
+| Project | Type | Status |
+| :--- | :--- | :--- |
+| [Shift OS](https://github.com/Kharisdestianmaulana-hub/Shift-OS) · [website](https://shiftos.vercel.app/) | Linux Distro | Active |
+| Pocket Officer | 3D Platformer (Godot) | In Development |
+| GDScript Comment Remover | Godot Plugin | Published |
 
 ---
 
-## 📌 Featured projects
+## Tech Stack
+
+**Languages**
+
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Tools**
+
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![Shift OS](https://github-readme-stats.vercel.app/api/pin/?username=Kharisdestianmaulana-hub&repo=Shift-OS&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE)](https://github.com/Kharisdestianmaulana-hub/Shift-OS)
+<img src="https://github-readme-stats.vercel.app/api?username=Kharisdestianmaulana-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kharisdestianmaulana-hub&layout=compact&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE" height="165"/>
 
-</div>
-
----
-
-## 🌱 Currently learning
-
-```bash
-$ apt list --learning
-> Advanced 3D game mechanics in Godot Engine
-> Linux system architecture & ISO customization
-> Cost-effective IoT integrations
-> Web development (HTML · CSS · JS)
-```
-
----
-
-## 🎮 Fun facts & personality
-
-- 🐧 I've probably installed Linux more times than I've eaten instant noodles
-- 📖 Currently writing a novel _and_ building an OS — multitasking is my religion
-- 🎵 I code better with music on (check my Spotify below)
-- 🤖 Co-authored a university AI history presentation written entirely as a sci-fi story
-- 💾 My hobby is making computers do things they weren't supposed to do
-
----
-
-## 🛠️ Tech stack
-
-**Languages I speak:**
-
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Tools of the trade:**
-
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## ⏱️ Wakatime stats
-
-<div align="center">
-
-<!--
-  Setup: daftar di https://wakatime.com, install ekstensinya di VS Code/editor kamu,
-  lalu ganti YOUR_WAKATIME_USERNAME di bawah dengan username Wakatime kamu.
--->
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiRay&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE&layout=compact)](https://wakatime.com/@RiRay)
-
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kharisdestianmaulana-hub&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&icon_color=D4537E&text_color=EEEDFE" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kharisdestianmaulana-hub&layout=compact&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharisdestianmaulana-hub&theme=radical&hide_border=true&background=0f0f1a&ring=7F77DD&fire=D4537E&currStreakLabel=5DCAA5" alt="GitHub Streak"/>
-
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kharisdestianmaulana-hub&theme=radical&hide_border=true&background=0f0f1a&ring=7F77DD&fire=D4537E&currStreakLabel=5DCAA5"/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kharisdestianmaulana-hub&theme=radical&bg_color=0f0f1a&color=7F77DD&line=D4537E&point=5DCAA5&hide_border=true)](https://github.com/Kharisdestianmaulana-hub)
 
@@ -123,17 +69,17 @@ $ apt list --learning
 
 ---
 
-## 🏆 Trophies
+## Wakatime
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kharisdestianmaulana-hub&theme=radical&no-frame=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RiRay&theme=radical&hide_border=true&bg_color=0f0f1a&title_color=7F77DD&text_color=EEEDFE&layout=compact)](https://wakatime.com/@RiRay)
 
 </div>
 
 ---
 
-## 🐍 Contribution graph
+## Contribution Graph
 
 <div align="center">
 
@@ -144,112 +90,63 @@ $ apt list --learning
 
 ---
 
-## 🎵 Currently listening to
+## Currently Listening
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31um45nuady5jjjnbeh7fhfn3zui&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0f0f1a&interchange=true&profanity=true&mode=dark&bar_color=7F77DD&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31um45nuady5jjjnbeh7fhfn3zui&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31um45nuady5jjjnbeh7fhfn3zui&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0f0f1a&interchange=true&bar_color=7F77DD&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31um45nuady5jjjnbeh7fhfn3zui&redirect=true)
 
 </div>
 
 ---
 
-## 🖥️ My setup
+## Roadmap
+
+| Timeline | Goal | Status |
+| :--- | :--- | :--- |
+| Q1 2026 | Ship Shift OS v26.03.1 publicly | Done |
+| Q2 2026 | Launch Shift OS website & community | Active |
+| Q3 2026 | Release Pocket Officer demo | In Progress |
+| Q3 2026 | Shift OS v26.09 "Serenity" | Planned |
+| Q4 2026 | Finish novel first draft | Planned |
+| 2027 | Graduate from UCIC | Planned |
+| 2027 | Shift OS ARM support + App Center | Planned |
+| 2027+ | Ship a commercial game | Long-term |
+
+---
+
+## Setup
 
 ```yaml
-OS: macOS Monterey + Ubuntu Budgie
-Editor: Visual Studio Code
-Terminal: bash
-Shell: bash
-Distro I built: Shift OS (Ubuntu 24.04 LTS base)
-Currently on: Godot Engine 4 + Cubic + Adobe Illustrator
+OS      : macOS Monterey + Ubuntu Budgie
+Editor  : Visual Studio Code
+Shell   : Bash
+Distro  : Shift OS (Ubuntu 24.04 LTS base)
+Tools   : Godot Engine 4 · Cubic · Adobe Illustrator
 ```
 
 ---
 
-## 💬 Shift OS tagline
+## Contact
 
-> _"Elegance Meets Pure Performance."_
-> — A Linux distro built by one developer, for creators & devs everywhere.
-> 🌐 [shiftos.vercel.app](https://shiftos.vercel.app)
-
----
-
-## 🗺️ Visitor map
-
-<div align="center">
-
-[![Visitor Map](https://www.clustrmaps.com/map_v2.png?d=nJDyG_qRWtel_Uox0vWRYca0ncGdMrf-QeD7r5xnn4w&cl=ffffff)](https://clustrmaps.com/site/1c9i7)
-
-</div>
+[![Email](https://img.shields.io/badge/maulanakharis123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maulanakharis123@gmail.com)
+[![Instagram](https://img.shields.io/badge/@kharis__destian-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kharis_destian)
+[![TikTok](https://img.shields.io/badge/@riray0412-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@riray0412)
+[![Shift OS](https://img.shields.io/badge/shiftos.vercel.app-5DCAA5?style=flat-square&logo=linux&logoColor=white)](https://shiftos.vercel.app)
 
 ---
 
-## ✍️ Commit haiku
+## Support
 
-_A new haiku every week — thoughts from behind the keyboard._
-
-```
-distro boots clean now
-one less service in the logs
-silence is power
-```
-
-> _Week of Mar 19, 2026 — on shipping Shift OS v26.03.1_
-
----
-
-## 🗓️ Personal roadmap
-
-> Not just a project plan — this is where I'm going.
-
-| Timeline    | Goal                                  | Status         |
-| :---------- | :------------------------------------ | :------------- |
-| **Q1 2026** | Ship Shift OS v26.03.1 publicly       | ✅ Done        |
-| **Q2 2026** | Launch Shift OS website & community   | 🟢 Active      |
-| **Q3 2026** | Release Pocket Officer demo           | 🟡 In Progress |
-| **Q3 2026** | Shift OS v26.09 "Serenity"            | 🔵 Planned     |
-| **Q4 2026** | Finish writing my novel (first draft) | 🔵 Planned     |
-| **2027**    | Graduate from UCIC                    | 🔵 Planned     |
-| **2027**    | Shift OS ARM support + App Center     | 🔵 Planned     |
-| **2027+**   | Ship a commercial game                | 🌙 Dream       |
-
----
-
-## 📫 Let's connect
-
-I'm always down to talk game dev, Linux ricing, open-source, or creative writing!
-
-<div align="left">
-
-[![Email](https://img.shields.io/badge/maulanakharis123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulanakharis123@gmail.com)
-[![Instagram](https://img.shields.io/badge/@kharis_destian-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kharis_destian)
-[![TikTok](https://img.shields.io/badge/@riray0412-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@riray0412)
-[![Shift OS](https://img.shields.io/badge/Shift%20OS-Website-5DCAA5?style=for-the-badge&logo=linux&logoColor=white)](https://shiftos.vercel.app)
-
-</div>
-
----
-
-## ☕ Support my work
-
-<div align="left">
-
-[![Saweria](https://img.shields.io/badge/Saweria-Support%20me-F4A724?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/YOUR_SAWERIA_USERNAME)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_USERNAME)
-
-</div>
+[![Saweria](https://img.shields.io/badge/Saweria-F4A724?style=flat-square&logo=ko-fi&logoColor=white)](https://saweria.co/YOUR_SAWERIA_USERNAME)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_KOFI_USERNAME)
 
 ---
 
 <div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 _"Building logic through code, crafting worlds through stories."_
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,D4537E,5DCAA5&height=80&section=footer)
+
 </div>
-
-<!-- Wave footer -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD,D4537E,5DCAA5&height=100&section=footer)
