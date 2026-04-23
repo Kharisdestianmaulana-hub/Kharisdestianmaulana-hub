@@ -122,7 +122,7 @@ I bridge technical logic and creative work — building games, shipping a custom
 
 ```yaml
 OS      : macOS Monterey + Ubuntu Budgie
-Editor  : Visual Studio Code
+Editor  : Visual Studio Code, Antigravity
 Shell   : Bash
 Distro  : Shift OS (Ubuntu 24.04 LTS base)
 Tools   : Godot Engine 4 · Cubic · Adobe Illustrator
