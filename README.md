@@ -112,9 +112,9 @@ I bridge technical logic and creative work — building games, shipping a custom
 | Q3 2026 | Release Pocket Officer demo | In Progress |
 | Q3 2026 | Shift OS v26.09 "Serenity" | Planned |
 | Q4 2026 | Finish novel first draft | Planned |
-| 2027 | Graduate from UCIC | Planned |
 | 2027 | Shift OS ARM support + App Center | Planned |
 | 2027+ | Ship a commercial game | Long-term |
+| 2029 | Graduate from UCIC | Planned |
 
 ---
 
