@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## Who I Am
 
 ```
 Kharis Destian — IT Student · Indie Dev · Linux Enthusiast
@@ -19,6 +19,12 @@ University: Universitas Catur Insan Cendikia (UCIC)
 ```
 
 I bridge technical logic and creative work — building games, shipping a custom Linux distro, and writing long-form fiction. If it can be customized, it will be.
+
+I don't really stick to one lane. On any given week I might be debugging a Firebase auth race condition in a React Native app, tuning a Wayland compositor written in QML, designing a content schema for a learning platform, and outlining a chapter of a novel — all in the same breath. I'm drawn to systems I can fully own: rather than just using a Linux distro, I ship my own; rather than just using a desktop environment, I build the compositor myself. Control over the stack, down to the rendering layer, is part of the appeal.
+
+I work fast and direct. I'd rather open the editor and start fixing than write a paragraph about the plan first — minimal overhead, maximum execution. That same instinct shows up in how I design: clean, dark or cream palettes, flat badges, no emoji, no clutter. Function and form should both feel deliberate.
+
+Underneath the constant context-switching there's a throughline: I like building worlds, whether that world is an operating system, a game level, or a story. The engineer side and the storyteller side aren't really separate for me — they're the same impulse pointed in different directions.
 
 ---
 
