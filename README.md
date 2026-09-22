@@ -11,26 +11,24 @@ Cirebon, West Java, Indonesia
 
 </div>
 
----
-
 ## Tentang Saya
 
-Dalam satu minggu biasa, saya bisa membenahi arsitektur video editor native macOS di pagi hari, menulis skrip game horor di sore hari, lalu malamnya balik lagi ngerjain desain sistem untuk studio jasa yang sedang saya bangun bareng teman. Bukan karena nggak fokus — tapi karena buat saya, semua itu sebenarnya satu impuls yang sama: membangun sistem dan membangun cerita. Kadang wujudnya kode, kadang wujudnya narasi. Sisi "engineer" dan sisi "penulis" bukan dua hal yang bersaing, keduanya sama-sama soal membangun dunia yang punya aturan sendiri dan konsisten.
+Dalam satu minggu biasa, saya bisa membenahi arsitektur video editor native macOS di pagi hari, menulis skrip game horor di sore hari, lalu malamnya balik lagi ngerjain desain sistem untuk studio jasa yang sedang saya bangun bareng teman. Bukan karena nggak fokus, tapi karena buat saya, semua itu sebenarnya satu impuls yang sama: membangun sistem dan membangun cerita. Kadang wujudnya kode, kadang wujudnya narasi. Sisi engineer dan sisi penulis bukan dua hal yang bersaing, keduanya sama-sama soal membangun dunia yang punya aturan sendiri dan konsisten.
 
-Saya lebih senang langsung buka editor dan mulai membangun daripada berlama-lama merancang di atas kertas — itu juga alasan kenapa saya lebih sering punya proyek yang berjalan paralel daripada satu per satu.
+Saya lebih senang langsung buka editor dan mulai membangun daripada berlama-lama merancang di atas kertas. Itu juga alasan kenapa saya lebih sering punya proyek yang berjalan paralel daripada satu per satu.
 
-Soal cara kerja dan preferensi visual, saya orangnya minimalis: flat, bersih, tanpa emoji, dan lebih suka palet gelap atau krem yang terasa deliberate — bukan default template.
+Soal cara kerja dan preferensi visual, saya orangnya minimalis: flat, bersih, tanpa emoji, dan lebih suka palet gelap atau krem yang terasa deliberate, bukan default template.
 
 ## Pendidikan & Organisasi
 
 - IT Student di **Universitas Catur Insan Cendikia (UCIC)**, Cirebon
-- Di **HIMATIF UCIC** (Himpunan Mahasiswa Teknik Informatika), saya masuk Bidang 2 — Departemen Pelatihan dan Pengembangan, yang fokusnya mengembangkan dan melatih mahasiswa TI
+- Di **HIMATIF UCIC** (Himpunan Mahasiswa Teknik Informatika), saya masuk Bidang 2, Departemen Pelatihan dan Pengembangan, yang fokusnya mengembangkan dan melatih mahasiswa TI
 
 ## Apa yang Saya Kerjakan
 
-Saya menjalankan **Lokara Studio**, tempat saya mengembangkan game dan tools sesuai visi saya sendiri — termasuk mengembangkan custom game engine hasil fork dari Godot. Di sisi lain saya sedang ikut membangun **Kodein**, sebuah studio jasa web development dan design bersama teman-teman, dari sisi branding sampai arsitektur platformnya.
+Saya menjalankan **Lokara Studio**, tempat saya mengembangkan game dan tools sesuai visi saya sendiri, termasuk mengembangkan custom game engine hasil fork dari Godot. Di sisi lain saya sedang ikut membangun **Kodein**, sebuah studio jasa web development dan design bersama teman-teman, dari sisi branding sampai arsitektur platformnya.
 
-Di luar dua hal itu, saya banyak bereksperimen dengan proyek native macOS — dari tools produktivitas kecil sampai aplikasi yang lebih kompleks seperti video editor — serta proyek-proyek seputar sistem dan infrastruktur, termasuk mengembangkan distro Linux sendiri.
+Di luar dua hal itu, saya banyak bereksperimen dengan proyek native macOS, dari tools produktivitas kecil sampai aplikasi yang lebih kompleks seperti video editor, serta proyek-proyek seputar sistem dan infrastruktur, termasuk mengembangkan distro Linux sendiri.
 
 ## Skill & Tools
 
@@ -52,6 +50,8 @@ Di luar dua hal itu, saya banyak bereksperimen dengan proyek native macOS — da
 **Design**
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-111111?style=flat-square&logo=canva&logoColor=00C4CC)
 ![Design System](https://img.shields.io/badge/Design_System-flat_%26_minimal-111111?style=flat-square)
 
 **Sistem & Infra**
@@ -95,8 +95,6 @@ Ide awalnya sederhana: saya pengen pengalaman ala Dynamic Island, tapi Mac saya 
 [![TikTok](https://img.shields.io/badge/TikTok-111111?style=flat-square&logo=tiktok&logoColor=ffffff)](https://tiktok.com/@riray0412)
 [![Threads](https://img.shields.io/badge/Threads-111111?style=flat-square&logo=threads&logoColor=ffffff)](https://threads.net/@kharis_destian)
 [![Website](https://img.shields.io/badge/studiokharis.works-111111?style=flat-square&logo=googlechrome&logoColor=ffffff)](https://studiokharis.works/)
-
----
 
 <div align="center">
 
