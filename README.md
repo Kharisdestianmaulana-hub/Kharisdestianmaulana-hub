@@ -4,12 +4,19 @@
 
 # Kharis Destian Maulana
 
+### Studio Kharis
+*Small Studio. Big Ideas.*
+
 **IT Student · Indie Developer · Game Developer · Designer**
 Cirebon, West Java, Indonesia
 
 ![Status](https://img.shields.io/badge/status-studying_%2B_building-111111?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-code_%26_narrative-111111?style=flat-square)
 ![Based in](https://img.shields.io/badge/based_in-Cirebon%2C_Indonesia-111111?style=flat-square)
+
+![Projects](https://img.shields.io/badge/projects_completed-7-111111?style=flat-square)
+![Tech](https://img.shields.io/badge/technologies-23%2B-111111?style=flat-square)
+![Articles](https://img.shields.io/badge/articles_published-3-111111?style=flat-square)
 
 **[English](#english) · [Bahasa Indonesia](#bahasa-indonesia)**
 
@@ -24,6 +31,8 @@ In a typical week, I might be fixing the architecture of a native macOS video ed
 I would rather open the editor and start building than spend too long planning on paper. That is also why I tend to run several projects in parallel instead of one at a time.
 
 When it comes to how I work and how I design, I lean minimalist: flat, clean, no emoji, and a preference for dark or cream palettes that feel deliberate rather than default.
+
+I work under the name **Studio Kharis**. Despite the name, it is just me. No team, it is simply the name I use as a solo developer.
 
 ### Education & Organization
 
@@ -117,6 +126,8 @@ Dalam satu minggu biasa, saya bisa membenahi arsitektur video editor native macO
 Saya lebih senang langsung buka editor dan mulai membangun daripada berlama-lama merancang di atas kertas. Itu juga alasan kenapa saya lebih sering punya proyek yang berjalan paralel daripada satu per satu.
 
 Soal cara kerja dan preferensi visual, saya orangnya minimalis: flat, bersih, tanpa emoji, dan lebih suka palet gelap atau krem yang terasa deliberate, bukan default template.
+
+Saya berkarya dengan nama **Studio Kharis**. Walaupun namanya ada kata studio, sebenarnya cuma saya sendiri. Nggak ada tim, itu murni nama yang saya pakai sebagai solo developer.
 
 ### Pendidikan & Organisasi
 
