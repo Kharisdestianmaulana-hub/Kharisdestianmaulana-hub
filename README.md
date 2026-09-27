@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo-light.webp" alt="Kharis Destian Maulana Logo" width="120"/>
+
 # Kharis Destian Maulana
 
 **IT Student · Indie Developer · Game Developer · Designer**
