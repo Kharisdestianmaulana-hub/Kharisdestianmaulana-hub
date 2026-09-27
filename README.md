@@ -41,7 +41,7 @@ I work under the name **Studio Kharis**. Despite the name, it is just me. No tea
 
 ### What I Do
 
-I run **Lokara Studio**, where I develop games and tools based on my own vision, including building a custom game engine forked from Godot. Alongside that, I am co-founding **Kodein**, a web development and design service studio with friends, working on everything from branding to platform architecture.
+I develop games and tools under **Studio Kharis**, my solo developer name, including building a custom game engine forked from Godot. Alongside that, I am co-founding **Kodein**, a web development and design service studio with friends, working on everything from branding to platform architecture.
 
 Outside of those two, I experiment a lot with native macOS projects, from small productivity tools to more complex apps like a video editor, along with projects around systems and infrastructure, including building my own Linux distro.
 
@@ -136,7 +136,7 @@ Saya berkarya dengan nama **Studio Kharis**. Walaupun namanya ada kata studio, s
 
 ### Apa yang Saya Kerjakan
 
-Saya menjalankan **Lokara Studio**, tempat saya mengembangkan game dan tools sesuai visi saya sendiri, termasuk mengembangkan custom game engine hasil fork dari Godot. Di sisi lain saya sedang ikut membangun **Kodein**, sebuah studio jasa web development dan design bersama teman-teman, dari sisi branding sampai arsitektur platformnya.
+Saya mengembangkan game dan tools di bawah nama **Studio Kharis**, nama solo developer saya, termasuk mengembangkan custom game engine hasil fork dari Godot. Di sisi lain saya sedang ikut membangun **Kodein**, sebuah studio jasa web development dan design bersama teman-teman, dari sisi branding sampai arsitektur platformnya.
 
 Di luar dua hal itu, saya banyak bereksperimen dengan proyek native macOS, dari tools produktivitas kecil sampai aplikasi yang lebih kompleks seperti video editor, serta proyek-proyek seputar sistem dan infrastruktur, termasuk mengembangkan distro Linux sendiri.
 
